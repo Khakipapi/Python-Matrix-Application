@@ -1,6 +1,3 @@
-Based on the initial analysis of the `lab_4.py` script, it appears to be a Python application that includes user interaction for playing a matrix game and functions for handling phone numbers and zip codes. Here is a comprehensive README file in Markdown format based on the provided script:
-
-```markdown
 # Python Matrix Application
 
 ## Introduction
